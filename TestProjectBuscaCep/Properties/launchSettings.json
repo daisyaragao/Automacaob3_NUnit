@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestProjectBuscaCep": {
+      "commandName": "Project"
+    },
+    "Perfil 1": {
+      "commandName": "Executable"
+    }
+  }
+}

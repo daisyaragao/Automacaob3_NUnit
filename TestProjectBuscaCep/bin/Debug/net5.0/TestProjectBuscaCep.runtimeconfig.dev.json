@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\daisy\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\daisy\\.nuget\\packages"
+    ]
+  }
+}
